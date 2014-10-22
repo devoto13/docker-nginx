@@ -13,7 +13,7 @@ chown -R root:root $html
 chmod 755 $html
 
 chown -R root:root $available
-chmod 755 $available
+chmod 777 $available
 
 chown -R root:root $confd
 chmod 755 $confd
